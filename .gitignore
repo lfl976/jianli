@@ -1,0 +1,8 @@
+node_modules
+dist
+.temp
+cache
+
+# OS generated files #
+######################
+.DS_Store
