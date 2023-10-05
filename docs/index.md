@@ -8,6 +8,6 @@ hero:
   tagline: Inspire, Create, Innovate
   actions:
     - theme: brand
-      text: Examples
+      text: Blog
       link: /examples
 ---
