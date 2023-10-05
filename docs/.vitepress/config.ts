@@ -16,6 +16,7 @@ export default defineConfig({
       {
         text: "List",
         items: [
+          { text: "ES2022新特性", link: "/ES2022新特性" },
           { text: "SQL连接查询", link: "/SQL连接查询" },
           { text: "js片段", link: "/js片段" },
           { text: "React 18 新特性", link: "/React18新特性" },
