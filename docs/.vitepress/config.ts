@@ -16,6 +16,10 @@ export default defineConfig({
       {
         text: "About",
         link: "/about",
+        items: [
+          { text: "About", link: "/about" },
+          { text: "resume", link: "/resume" },
+        ],
       },
       {
         text: "JavaScript",
