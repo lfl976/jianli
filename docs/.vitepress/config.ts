@@ -42,6 +42,10 @@ export default defineConfig({
           // { text: "SQL基础", link: "/SQL基础" },
         ],
       },
+      {
+        text: "总结",
+        items: [{ text: "2023总结", link: "/2023总结" }],
+      },
     ],
 
     socialLinks: [{ icon: "github", link: "https://github.com/lfl976" }],
