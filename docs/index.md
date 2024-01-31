@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "Leo's Blog"
-  text: "Hi"
+  name: "Tristan Wilde"
+  text: ""
   tagline: I am a Frontend Developer, and I use React and Vue
   actions:
     - theme: brand
