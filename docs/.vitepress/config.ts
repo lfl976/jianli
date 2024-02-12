@@ -21,6 +21,10 @@ export default defineConfig({
           { text: "resume", link: "/resume" },
         ],
       },
+      {
+        text: "SimpleVue-2",
+        link: "/SimpleVue-2",
+      },
       // {
       //   text: "JavaScript",
       //   items: [
