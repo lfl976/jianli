@@ -2,7 +2,7 @@
 outline: deep
 ---
 
-# Hi there
+# Hi
 
 I'm Wilde, a Frontend Developer, and I use React and Vue
 

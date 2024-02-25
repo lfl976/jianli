@@ -21,10 +21,10 @@ export default defineConfig({
           { text: "resume", link: "/resume" },
         ],
       },
-      {
-        text: "SimpleVue-2",
-        link: "/SimpleVue-2",
-      },
+      // {
+      //   text: "SimpleVue-2",
+      //   link: "/SimpleVue-2",
+      // },
       // {
       //   text: "JavaScript",
       //   items: [
@@ -38,18 +38,18 @@ export default defineConfig({
       //     // { text: "Examples", link: "/examples" },
       //   ],
       // },
-      {
-        text: "SQL",
-        items: [
-          { text: "SQL连接查询", link: "/SQL连接查询" },
-          // { text: "SQL数据类型", link: "/SQL数据类型" },
-          // { text: "SQL基础", link: "/SQL基础" },
-        ],
-      },
-      {
-        text: "总结",
-        items: [{ text: "2023总结", link: "/2023总结" }],
-      },
+      // {
+      //   text: "SQL",
+      //   items: [
+      //     { text: "SQL连接查询", link: "/SQL连接查询" },
+      //     { text: "SQL数据类型", link: "/SQL数据类型" },
+      //     { text: "SQL基础", link: "/SQL基础" },
+      //   ],
+      // },
+      // {
+      //   text: "总结",
+      //   items: [{ text: "2023总结", link: "/2023总结" }],
+      // },
     ],
 
     socialLinks: [{ icon: "github", link: "https://github.com/lfl976" }],
