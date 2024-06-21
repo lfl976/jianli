@@ -2,9 +2,9 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Wilde's Blog",
-  description: "有时间记录点什么吧",
-  base: "/blog/",
+  title: "Wilde's jianli",
+  description: "introduction",
+  base: "/jianli/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [

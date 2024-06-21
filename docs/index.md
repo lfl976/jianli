@@ -8,6 +8,6 @@ hero:
   tagline: I am a Frontend Developer, and I use React and Vue
   actions:
     - theme: brand
-      text: Blog
+      text: jianli
       link: /about
 ---
